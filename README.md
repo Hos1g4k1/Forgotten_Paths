@@ -21,8 +21,8 @@
 <hr>
 
 #### :wrench: Pokretanje:
-* Projekat preuzimate koristeći komandu `git clone https://github.com/MATF-RG19/RG58-forgotten-paths.git` <br>
-* Pozicionirati se u ```.../RG58-forgotten-paths/Sources``` <br>
+* Projekat preuzimate koristeći komandu `git clone https://github.com/Hos1g4k1/Forgotten_Paths.git` <br>
+* Pozicionirati se u ```.../Sources``` <br>
 * Zatim pomoću komande `make` pokrenite Makefile <br>
 * Zatim pokrenuti ```./Forgotten_Paths```
 * Neophodno je imati instaliran ```OpenGL``` na sistemu
